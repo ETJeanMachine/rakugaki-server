@@ -1,2 +1,3 @@
 [workspace]
-members = ['oauth']
+members = ["oauth"]
+resolver = "3"
