@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "rakugaki-server"
+name = "rakugaki-oauth"
 version = "0.1.0"
