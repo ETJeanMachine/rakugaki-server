@@ -1,5 +1,13 @@
+# Build files
 /target
 
+# Environmental Variables
 .env
 
+# Code Editor Files
+.idea
+.vscode
+.zed
+
+# OS specific files
 .DS_Store
